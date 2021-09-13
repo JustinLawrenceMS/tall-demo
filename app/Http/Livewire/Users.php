@@ -125,8 +125,8 @@ class Users extends Component
 	private function resetCreateForm(){
 
 
-		$this->user_id = null;
-		
+		$this->user_crud = null;
+			
 		$this->name = '';
 		
 		$this->email = '';
