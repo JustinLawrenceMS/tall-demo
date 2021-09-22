@@ -17,7 +17,7 @@
 		<br>
 		<br>
 		<div>
-			<table>
+			<table class="table-auto">
 				<tr>
 
 					<td> Point of Sale: {{ $customer_details['point-of-sale']  }}

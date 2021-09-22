@@ -49,7 +49,7 @@
 		@include('livewire.show')
 	@endif
 
-		<table>
+		<table class="table hover striped">
 			<thead>
 				<tr>
 					<th>User ID</th>
@@ -101,7 +101,7 @@
 
 			</tbody>
 		</table>
-	</div>
+       	   </div>
      </div>
 </div>
 </div>
